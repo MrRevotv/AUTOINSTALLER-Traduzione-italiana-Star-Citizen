@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/language-it-blue) ![GitHub License](https://img.shields.io/github/license/ORG-LSE/Traduzione_Italiano_Star-Citizen) ![GitHub Release](https://img.shields.io/github/v/release/ORG-LSE/Traduzione_Italiano_Star-Citizen)
 
 
-[![Scarica l'installer](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/blob/main/Immagini%20Github/button-1187460_1280.png?raw=true)](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/refs/heads/main/output/AUTO%20Installer%20traduzione%20SC.exe?token=GHSAT0AAAAAADA7L67Z3THXZATEQSFWVRP4Z76RWSA)
+[![Scarica l'installer](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/blob/main/Immagini%20Github/button-1187460_1280.png?raw=true)](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/main/output/AUTO%20Installer%20traduzione%20SC.exe)
 
 
 <div style="display: flex; justify-content: center;">
