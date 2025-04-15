@@ -34,7 +34,8 @@
 4. Accettare i termini;
 5. Eseguire la ricerca AUTOMATICA oppure selezionare un peercorso manualmente;
 
-
+   <img src="Immagini Github/ricerca automatica.png" width="500"/>
+   
  
 6. Selezionare la versione desiderata;
 7. Premere sul tasto **Installa traduzione**
