@@ -7,7 +7,7 @@
    <img src="Immagini Github/Logo_MadeByTheCommunity.png" width="200"/>
 </div>
 
-### Questa è una traduzione pubblica fatta da Mr Revo per la ORG LSE
+### Questa è una traduzione pubblica fatta da MrRevo, GattoMatto e dall'org LSE per la community di Star Citizen
 
 ## Indice
 - [Instalazione](#instalazione)
@@ -22,13 +22,13 @@
 
 #### Instalazione Setup (Consigliata)
 
-1. Scaricare installer `Setup Traslation Italian.exe` dal seguente [link](https://github.com/ORG-LSE/Traduzione_Italiano_Star-Citizen/releases/latest)
+1. Scaricare installer `Setup Traslation Italian.exe` dal seguente [link](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/releases/latest)
 2. Cliccare per eseguire installazione
    AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **installer è sicuro**.
    Per ovviare al problema basta cliccare su `Ulteriori Informazioni` e poi su `Esegui Cominque`.
    
-   <img src="image/README/1737494930628.png" width="350"/>
-   <img src="image/README/1737495126442.png" width="350"/>
+   <img src="Immagini Github/1737494930628.png" width="350"/>
+   <img src="Immagini Github/1737495126442.png" width="350"/>
 
 3. Accettare i termini
 4. Selezionare la versione di Star-Citizen LIVE o PTU
