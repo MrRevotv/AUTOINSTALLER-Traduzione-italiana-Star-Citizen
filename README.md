@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/language-it-blue) ![GitHub License](https://img.shields.io/github/license/ORG-LSE/Traduzione_Italiano_Star-Citizen) ![GitHub Release](https://img.shields.io/github/v/release/ORG-LSE/Traduzione_Italiano_Star-Citizen)
 
 <div style="display: flex; justify-content: center;">
-   <img src="immagini_Github/Logo_LSE.png" width="200"/>
+   <img src="Immagini Github/Logo_LSE.png" width="200"/>
    <img src="image/README/Logo_MadeByTheCommunity.png" width="200"/>
 </div>
 
