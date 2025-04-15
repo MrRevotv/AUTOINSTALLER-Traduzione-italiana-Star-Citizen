@@ -1,4 +1,4 @@
-# Traduzione Italiano Star-Citizen
+# Traduzione in Italiano per Star Citizen
 
 ![Static Badge](https://img.shields.io/badge/language-it-blue) ![GitHub License](https://img.shields.io/github/license/ORG-LSE/Traduzione_Italiano_Star-Citizen) ![GitHub Release](https://img.shields.io/github/v/release/ORG-LSE/Traduzione_Italiano_Star-Citizen)
 
