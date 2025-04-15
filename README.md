@@ -22,7 +22,7 @@
 
 #### Instalazione Setup (Consigliata)
 
-1. Scaricare l' installer `Setup Traslation Italian.exe` dal seguente [link](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/output/AUTO Installer traduzione SC.exe)
+1. Scaricare l' installer `Setup Traslation Italian.exe` dal seguente [link](https://github.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/output/AUTO_Installer_traduzione_SC.exe)
 2. Cliccare per eseguire installazione
    AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **installer è sicuro**.
    Per ovviare al problema basta cliccare su `Ulteriori Informazioni` e poi su `Esegui Cominque`.
