@@ -17,7 +17,7 @@
 ## Indice
 - [Instalazione](#instalazione)
 - [Uninstalla](#uninstalla)
-- [Aggiorna](#aggiorna)
+- [Aggiornamento manuale](#aggiorna)
 
 <br>
 
