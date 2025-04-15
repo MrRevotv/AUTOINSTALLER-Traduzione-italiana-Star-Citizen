@@ -22,51 +22,64 @@
 
 #### Instalazione Setup (Consigliata)
 
-1. Scaricare l' installer `AUTO Installer traduzione SC` dal seguente [link](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/refs/heads/main/output/AUTO%20Installer%20traduzione%20SC.exe?token=GHSAT0AAAAAADA7L67Z3THXZATEQSFWVRP4Z76RWSA)
+1. Scaricare l' installer `AUTO Installer traduzione SC` dal seguente [link](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/refs/heads/main/output/AUTO%20Installer%20traduzione%20SC.exe?token=GHSAT0AAAAAADA7L67Z3THXZATEQSFWVRP4Z76RWSA);
 2. Se appare dare conferma di download sicuro sul proprio browser;
 3. Cliccare per eseguire installazione
-   AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **L' installer è sicuro**.
-   Per ovviare al problema basta cliccare su `Ulteriori Informazioni` e poi su `Esegui Cominque`.
+   AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **L' installer è sicuro**;
+   Per ovviare al problema basta cliccare su `Ulteriori Informazioni` e poi su `Esegui Cominque`;
    
    <img src="Immagini Github/1737494930628.png" width="350"/>
    <img src="Immagini Github/1737495126442.png" width="350"/>
 
 4. Accettare i termini;
-5. Eseguire la ricerca AUTOMATICA oppure selezionare un peercorso manualmente;
+5. Eseguire la ricerca AUTOMATICA oppure selezionare un percorso manualmente;
 
-
- 
+   <img src="Immagini Github/ricerca automatica.png" width="500"/>
+   
 6. Selezionare la versione desiderata;
-7. Premere sul tasto **Installa traduzione**
-8. Aspettare che finisca, il programma si chiude da solo al termine dell' operazione;
+
+   <img src="Immagini Github/selezione versione.png" width="500"/>
+   
+8. Premere sul tasto **Installa traduzione**  (Ricordare di selezionare solo una versione alla volta);
+9. Aspettare che finisca, il programma si chiude da solo al termine dell' operazione.
 
 #### Instalazione Manuale
 
-1. Scaricare il File `global.ini` dal seguente [link](https://drive.google.com/uc?export=download&id=1nS6AvSXgctANr-enrFg5XkZVUdY4N5qH)
-2. Aprire la cartella di installazione di Star-Citizen es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`
-3. Aprire il file zip e trascinare la cartella `data` dentro la cartella installazione di Star-Citizen aperta in precedenza
-4. Creare la sotto cartella `Localization` al suo interno una altra sotto cartella `italian_(italy)`
-5. Spostare il File `global.ini` precedente mente scaricato in questa cartella appena creata `italian_(italy)`
-6. In stallzione completata
+1. Scaricare il File `global.ini` dal seguente [link](https://drive.google.com/file/d/1E2p4_HS19qlHijKCL_3-lt3IdIhFagI3/view?usp=sharing);
+2. Aprire la cartella di installazione di Star-Citizen es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`;
+3. Aprire il file zip e trascinare la cartella `data` dentro la cartella installazione di Star-Citizen aperta in precedenza;
+4. Trascinare anche il file user.cfg nella cartella di installazione di Star-Citizen aperta in precedenza;
+6. Installzione completata.
 
 # Uninstalla
 
-**ATTENZIONE**: Se per installare si è usato il metodo **Setup** seguire solo il metodo **tramite Setup**.
-Perchè il Metodo **Manuale** non può disinstalare correttamente e pulire i registri di sistema.
-
 #### Metodo tramite Setup
 
-1. Aprire installer `Setup Traslation Italian.exe` in caso non lo si abbia scarica da qui [link](https://github.com/ORG-LSE/Traduzione_Italiano_Star-Citizen/releases/latest)
-2. Accettare i termini
-3. Selezionare la versione di Star-Citizen LIVE o PTU
+1. Scaricare l' installer `AUTO Installer traduzione SC` dal seguente [link](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/refs/heads/main/output/AUTO%20Installer%20traduzione%20SC.exe?token=GHSAT0AAAAAADA7L67Z3THXZATEQSFWVRP4Z76RWSA);
+2. Se appare dare conferma di download sicuro sul proprio browser;
+3. Cliccare per eseguire installazione
+   AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **L' installer è sicuro**;
+   Per ovviare al problema basta cliccare su `Ulteriori Informazioni` e poi su `Esegui Cominque`;
+   
+   <img src="Immagini Github/1737494930628.png" width="350"/>
+   <img src="Immagini Github/1737495126442.png" width="350"/>
+
+4. Accettare i termini;
+5. Eseguire la ricerca AUTOMATICA oppure selezionare un percorso manualmente;
+
+   <img src="Immagini Github/ricerca automatica.png" width="500"/>
+   
+6. Selezionare la versione desiderata;
+
+   <img src="Immagini Github/selezione versione.png" width="500"/>
 4. Premere sul tasto **Rimuovi traduzione**
-5. Aspettare che finisca il programma si chiude da solo al termine della operazione
+5. Aspettare che finisca, il programma si chiude da solo al termine dell' operazione
 
 #### Metodo Manuale
 
-1. Aprire la cartella di installazione di Star-Citizen es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`
-2. Aprire la cartella `data` cercare la cartella `Localization` aprila.
-3. Trovare la cartella `italian_(italy)` e eliminarla.
+1. Aprire la cartella di installazione di Star-Citizen es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`;
+2. Eliminare il file user.cfg;
+3. Aprire la cartella `data` cercare la cartella `Localization` ed eliminarla;
 
 # Aggiorna
 
