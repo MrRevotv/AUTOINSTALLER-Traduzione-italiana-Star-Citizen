@@ -26,7 +26,7 @@
 
 #### Instalazione Setup (Consigliata)
 
-1. Scaricare l' installer `AUTO Installer traduzione SC` dal seguente [link](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/refs/heads/main/output/AUTO%20Installer%20traduzione%20SC.exe?token=GHSAT0AAAAAADA7L67Z3THXZATEQSFWVRP4Z76RWSA);
+1. Scaricare l' installer `AUTO Installer traduzione SC` dal seguente [link](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/main/output/AUTO%20Installer%20traduzione%20SC.exe);
 2. Se appare dare conferma di download sicuro sul proprio browser;
 3. Cliccare per eseguire installazione
    AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **L' installer è sicuro**;
@@ -59,7 +59,7 @@
 
 #### Metodo tramite Setup
 
-1. Scaricare l' installer `AUTO Installer traduzione SC` dal seguente [link](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/refs/heads/main/output/AUTO%20Installer%20traduzione%20SC.exe?token=GHSAT0AAAAAADA7L67Z3THXZATEQSFWVRP4Z76RWSA);
+1. Scaricare l' installer `AUTO Installer traduzione SC` dal seguente [link](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/main/output/AUTO%20Installer%20traduzione%20SC.exe);
 2. Se appare dare conferma di download sicuro sul proprio browser;
 3. Cliccare per eseguire installazione
    AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **L' installer è sicuro**;
