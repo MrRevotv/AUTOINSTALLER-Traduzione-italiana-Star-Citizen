@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center;">
    <img src="Immagini Github/Logo_LSE.png" width="200"/>
-   <img src="image/README/Logo_MadeByTheCommunity.png" width="200"/>
+   <img src="Immagini Github/Logo_MadeByTheCommunity.png" width="200"/>
 </div>
 
 ### Questa è una traduzione pubblica fatta da Mr Revo per la ORG LSE
