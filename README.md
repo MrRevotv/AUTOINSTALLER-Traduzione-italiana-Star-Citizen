@@ -3,11 +3,11 @@
 ![Static Badge](https://img.shields.io/badge/language-it-blue) ![GitHub License](https://img.shields.io/github/license/ORG-LSE/Traduzione_Italiano_Star-Citizen) ![GitHub Release](https://img.shields.io/github/v/release/ORG-LSE/Traduzione_Italiano_Star-Citizen)
 
 <div style="display: flex; justify-content: center;">
-   <img src="image/README/Logo_LSE.png" width="200"/>
-   <img src="image/README/Logo_MadeByTheCommunity.png" width="200"/>
+   <img src="Immagini Github/Logo_LSE.png" width="200"/>
+   <img src="Immagini Github/Logo_MadeByTheCommunity.png" width="200"/>
 </div>
 
-### Questa è una traduzione pubblica fatta da Mr Revo per la ORG LSE
+### Questa è una traduzione pubblica fatta da MrRevo, GattoMatto e dall'org LSE per la community di Star Citizen
 
 ## Indice
 - [Instalazione](#instalazione)
@@ -22,18 +22,23 @@
 
 #### Instalazione Setup (Consigliata)
 
-1. Scaricare installer `Setup Traslation Italian.exe` dal seguente [link](https://github.com/ORG-LSE/Traduzione_Italiano_Star-Citizen/releases/latest)
-2. Cliccare per eseguire installazione
-   AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **installer è sicuro**.
+1. Scaricare l' installer `AUTO Installer traduzione SC` dal seguente [link](https://raw.githubusercontent.com/MrRevotv/AUTOINSTALLER-Traduzione-italiana-Star-Citizen/refs/heads/main/output/AUTO%20Installer%20traduzione%20SC.exe?token=GHSAT0AAAAAADA7L67Z3THXZATEQSFWVRP4Z76RWSA)
+2. Se appare dare conferma di download sicuro sul proprio browser;
+3. Cliccare per eseguire installazione
+   AVVISO: Windows potrebbe mostrare un messaggio che il file non è sicuro perchè non riesce a verificare la firma digitale **L' installer è sicuro**.
    Per ovviare al problema basta cliccare su `Ulteriori Informazioni` e poi su `Esegui Cominque`.
    
-   <img src="image/README/1737494930628.png" width="350"/>
-   <img src="image/README/1737495126442.png" width="350"/>
+   <img src="Immagini Github/1737494930628.png" width="350"/>
+   <img src="Immagini Github/1737495126442.png" width="350"/>
 
-3. Accettare i termini
-4. Selezionare la versione di Star-Citizen LIVE o PTU
-5. Premere sul tasto **Installa traduzione**
-6. Aspettare che finisca il programma si chiude da solo al termine della operazione
+4. Accettare i termini;
+5. Eseguire la ricerca AUTOMATICA oppure selezionare un peercorso manualmente;
+
+
+ 
+6. Selezionare la versione desiderata;
+7. Premere sul tasto **Installa traduzione**
+8. Aspettare che finisca, il programma si chiude da solo al termine dell' operazione;
 
 #### Instalazione Manuale
 
