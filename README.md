@@ -36,14 +36,16 @@
 
    <img src="Immagini Github/ricerca automatica.png" width="500"/>
    
- 
 6. Selezionare la versione desiderata;
-7. Premere sul tasto **Installa traduzione**
-8. Aspettare che finisca, il programma si chiude da solo al termine dell' operazione;
+
+   <img src="Immagini Github/selezione versione.png" width="500"/>
+   
+8. Premere sul tasto **Installa traduzione**  (Ricordare di selezionare solo una versione alla volta)
+9. Aspettare che finisca, il programma si chiude da solo al termine dell' operazione;
 
 #### Instalazione Manuale
 
-1. Scaricare il File `global.ini` dal seguente [link](https://drive.google.com/uc?export=download&id=1nS6AvSXgctANr-enrFg5XkZVUdY4N5qH)
+1. Scaricare il File `global.ini` dal seguente [link](https://drive.google.com/file/d/1E2p4_HS19qlHijKCL_3-lt3IdIhFagI3/view?usp=sharing)
 2. Aprire la cartella di installazione di Star-Citizen es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`
 3. Aprire il file zip e trascinare la cartella `data` dentro la cartella installazione di Star-Citizen aperta in precedenza
 4. Creare la sotto cartella `Localization` al suo interno una altra sotto cartella `italian_(italy)`
