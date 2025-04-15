@@ -49,7 +49,7 @@
 2. Aprire la cartella di installazione di Star-Citizen es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`;
 3. Aprire il file zip e trascinare la cartella `data` dentro la cartella installazione di Star-Citizen aperta in precedenza;
 4. Trascinare anche il file user.cfg nella cartella di installazione di Star-Citizen aperta in precedenza;
-6. In stallzione completata.
+6. Installzione completata.
 
 # Uninstalla
 
