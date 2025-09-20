@@ -50,7 +50,7 @@
 
 #### Instalazione Manuale
 
-1. Scaricare il File `global.ini` dal seguente [link](https://drive.google.com/file/d/1E2p4_HS19qlHijKCL_3-lt3IdIhFagI3/view?usp=sharing);
+1. Scaricare il File `global.ini` dal seguente [link](https://drive.google.com/drive/folders/1UzxOam6DyUeSjamVqYgm7Z1KexSkH7dr?usp=sharing);
 2. Aprire la cartella di installazione di Star-Citizen es: `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE`;
 3. Aprire il file zip e trascinare la cartella `data` dentro la cartella installazione di Star-Citizen aperta in precedenza;
 4. Trascinare anche il file user.cfg nella cartella di installazione di Star-Citizen aperta in precedenza;
